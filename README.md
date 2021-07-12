@@ -16,7 +16,10 @@ Detection of colored shapes and determination of the main characteristics of the
 
 Разработка выполнялась в среде Spyder и MurIDE.
 
-Источники:__________
+Источники:
+
 https://murproject.com/
+
 https://bootsector.livejournal.com/43436.html
+
 Ян, Э. С. Программирование компьютерного зрения на языке Python 
